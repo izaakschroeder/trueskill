@@ -1,0 +1,22 @@
+{
+	"name": "com.izaakschroeder.trueskill",
+	"description": "TrueSkill compatible ranking system.",
+	"version": "0.0.1",
+	"main": "lib/trueskill.js",
+	"engines": {
+		"nodejs": ">=0.10.4"
+	},
+	"dependencies": {
+		"amdefine": ">=0.0.2"
+	},
+	"devDependencies": {
+		"mocha": ">=1.12.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/izaakschroeder/com.izaakschroeder.trueskill.git"
+	},
+	"scripts": {
+		"test": "mocha -R spec test"
+	}
+}
