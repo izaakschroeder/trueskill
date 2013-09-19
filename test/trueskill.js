@@ -1,6 +1,6 @@
 
 var 
-	TrueSkill = require('com.izaakschroeder.trueskill'), 
+	TrueSkill = require(__dirname+'/../'), 
 	assert = require('assert'),
 	precision = 10e-5;
 
