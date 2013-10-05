@@ -2,7 +2,7 @@
 
 A purely functional implementation of a TrueSkill-compatible ranking system compatible with your web browser and nodejs.
 
-[![Build Status](https://travis-ci.org/izaakschroeder/com.izaakschroeder.trueskill.png?branch=master)](https://travis-ci.org/izaakschroeder/com.izaakschroeder.trueskill)
+[![Build Status](https://travis-ci.org/izaakschroeder/trueskill.png?branch=master)](https://travis-ci.org/izaakschroeder/trueskill)
 
 ```
 npm install com.izaakschroeder.trueskill
