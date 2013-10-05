@@ -2,3 +2,11 @@ language: node_js
 node_js:
     - "0.11"
     - "0.10"
+deploy:
+    provider: npm
+    email: izaakschroeder@aelatis.com
+    api_key:
+        secure: "HFeyZT081rVlTClzhgMHjdSZ7CTE6RDqh7J8xTlMab/19Uod6ueoALsMSzYd4QNa9IzInMsh7ZBwobR86Ey7CLlWp9Iuxj0bo49eXIHEyDbg42t8zaJACRSRREhi98uykD0xcyIuWIhgymGt1DEUABHYqqyr8MmojTFQHNGvuHY="
+    on:
+        tags: true
+        branch: master
