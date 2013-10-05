@@ -6,7 +6,7 @@ deploy:
     provider: npm
     email: izaakschroeder@aelatis.com
     api_key:
-        secure: "HFeyZT081rVlTClzhgMHjdSZ7CTE6RDqh7J8xTlMab/19Uod6ueoALsMSzYd4QNa9IzInMsh7ZBwobR86Ey7CLlWp9Iuxj0bo49eXIHEyDbg42t8zaJACRSRREhi98uykD0xcyIuWIhgymGt1DEUABHYqqyr8MmojTFQHNGvuHY="
+        secure: "GNrEbjA5um4A8IbHgt+RkigM1m/kELmHb2xW0Huw//C2vTgMwiNNTGJkBYHIIipA76G4sW/PO2lcf5sQ3bSCCIXIU0XPF1KSqNffufhqLcOeGJmKmxWvHCkJIFj7H2cRkKR0rL8CSsaJ6zIU7g/1/5PvpvKsw7LXAgqX/AedPhs="
     on:
         tags: true
         branch: master
