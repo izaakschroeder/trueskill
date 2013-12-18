@@ -1,7 +1,7 @@
 {
 	"name": "com.izaakschroeder.trueskill",
 	"description": "TrueSkill compatible ranking system.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "lib/trueskill.js",
 	"engines": {
 		"nodejs": ">=0.10.4"
